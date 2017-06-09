@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 09 Jun 2017 19:03:50 AEST
+
+BeginCmp
+TimeStamp = /593A3657;
+Reference = OP1;
+ValeurCmp = LM358P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A365D;
+Reference = OP2;
+ValeurCmp = LM358P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3640;
+Reference = OP3;
+ValeurCmp = LM358P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A4676;
+Reference = P1;
+ValeurCmp = PIN;
+IdModule  = PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3665;
+Reference = R1;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3677;
+Reference = R2;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3683;
+Reference = R3;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A367D;
+Reference = R4;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A36BE;
+Reference = R5;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A36B8;
+Reference = R6;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A376E;
+Reference = R7;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3774;
+Reference = R8;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A377A;
+Reference = R9;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3780;
+Reference = R10;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3786;
+Reference = R11;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A378C;
+Reference = R12;
+ValeurCmp = 1000;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A43D2;
+Reference = Reg1;
+ValeurCmp = REGULATOR;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A485D;
+Reference = RGB1;
+ValeurCmp = RGB_OUTPUT;
+IdModule  = rgbOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A4850;
+Reference = RGB2;
+ValeurCmp = RGB_OUTPUT;
+IdModule  = rgbOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3285;
+Reference = T1;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A33C9;
+Reference = T2;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A33E2;
+Reference = T3;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A33F1;
+Reference = T4;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A340F;
+Reference = T5;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3422;
+Reference = T6;
+ValeurCmp = MOSFET;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A3046;
+Reference = U1;
+ValeurCmp = TEENSY3.2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /593A419E;
+Reference = v1;
+ValeurCmp = 5V0;
+IdModule  = 5vIN;
+EndCmp
+
+EndListe

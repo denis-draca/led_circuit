@@ -1,0 +1,48 @@
+PCBNEW-LibModule-V1  Fri 09 Jun 2017 19:00:57 AEST
+# encoding utf-8
+Units mm
+$INDEX
+rgbOUT
+$EndINDEX
+$MODULE rgbOUT
+Po 0 0 0 15 593A63BB 00000000 ~~
+Li rgbOUT
+Sc 0
+AR 
+Op 0 0 0
+T0 4.064 -2.54 1 1 0 0.15 N V 21 N "rgbOUT"
+T1 4.572 2.54 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.524 -1.524 -1.524 1.524 0.15 21
+DS -1.524 1.524 9.144 1.524 0.15 21
+DS 9.144 1.524 9.144 -1.524 0.15 21
+DS 9.144 -1.524 -1.524 -1.524 0.15 21
+$PAD
+Sh "1" R 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$EndMODULE rgbOUT
+$EndLIBRARY
